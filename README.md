@@ -1,6 +1,6 @@
 Basic-Calendar
 
-Fills in the whitespace before and after the days in the current months.
+Fills in the whitespace before and after the days in the current month.
 populates the fields with #'s for the days in the current month.
 
 
